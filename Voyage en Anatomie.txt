@@ -203,7 +203,7 @@ Toxine 1 : Eh le nez ! Si je te touche, tu coules* !
 Tous : Aux abris !
 Cyrano : Pour ne pas faire l'arrosoir, que l'on m'apporte mon mouchoir !
 Toxine 2 : Dis-moi ma jolie peau, tu es plutôt herpès ou eczéma ?
-Aloé Véra : Acun des deux !!
+Aloé Vera : Acun des deux !!
 Tous : Il faut sauver notre peau* !
 Toxine 1 : Oh, les reins ! Un calcul*, ça vous tente ?
 Tous : Pitié !
@@ -238,7 +238,7 @@ Macrophage : Moi, Globule...
 Tous : Notre sauveur !!
 Toxine 1 : Oui, va-y affirm-toi !
 Granulocyte : l'élite des anticorps !
-Toxine 2: C'est bien ça : regardez comme il est beau !
+Toxine 2 : C'est bien ça : regardez comme il est beau !
 Tous : Notre héros !!
 Macrophage : Je te...
 Toxine 1 : Tu me... ?
@@ -251,7 +251,7 @@ Toxines : Qu'est-ce que c'est que ça ?!!
 Tous : Phagocytose !
 Oeil de Lynx : Toi te taire et toi écouter !
 Tous : Phagocytose : Procédé par lequel sont détruits...
-Toxine : Sont détruits quoi ?!!!!
+Toxines : Sont détruits quoi ?!!!!
 Sigmund : Les baleines à roulettes ! 
 Tous : Sigmund !
 Aloé Vera : Non ! Les vilaines petites bêêtes comme toi !
