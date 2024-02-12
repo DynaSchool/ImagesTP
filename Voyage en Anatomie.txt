@@ -10,10 +10,10 @@ Cogito : Secundo...
 Organes : Tu peux accélérer un peu ?!!
 Cogito : ... voici mon colocataire...
 Organes : Sigmund ?!!
-Sigmund : Vous n'auriez pas vu mon couple-ongles ?
+Sigmund : Vous n'auriez pas vu mon coupe-ongles ?
 Organes : Le neurone... torturé !
 Cogito : Alors oui, je vous pose la question : quid ?
-Organes : Vous allez leur : oui ou non ?
+Organes : Vous allez leur dire : oui ou non ?
 Cogito : Oui !! // Sigmund : Non !!
 Organes : OUI ou NON ?!!!
 Juliette : Laissons parler le coeur !
@@ -73,6 +73,8 @@ Organes : Oeil de Lynx, dis quelque chose !!!
 Tous : Traduction ?
 Oeil de Lynx : Bave du crapaud pas atteindre blanche colombe !
 Tous : Traduction ???
+Beethoven : Qu'est ce qu'il a dit ?!!!!
+Orgones : Bee-tho-ven, oublie !
 Beethoven : La 5ème symphonie ? Avec plaisir !
 Organes : Stop ! Eh, l'oreille, débouche-toi* !
 Macrophage : Bon, tout le monde au repos !
